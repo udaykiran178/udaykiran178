@@ -1,4 +1,4 @@
-
+![logo](https://github.com/udaykiran178/udaykiran178/blob/main/IMG_5662.jpg)
 <h1 align="center">Hi 👋, I'm Uday kiran</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
